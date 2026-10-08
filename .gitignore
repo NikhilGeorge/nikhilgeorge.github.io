@@ -1,0 +1,4 @@
+.DS_Store
+# Private resume (contains phone number) — keep out of the public site
+Resume-*.pdf
+*.pdf
